@@ -6,7 +6,7 @@ import cardImages from '../assets/images/cardImages';
 const formatCardName = (name: string) => {
   return name
     .toLowerCase()
-    .replace(/[\s_]+/g, '-') // "Three of Cups" → "three-of-cups"
+    .replace(/[\s_]+/g, '-')
     .replace(/[^a-z0-9-]/g, '');
 };
 
@@ -37,28 +37,36 @@ const CardItem: React.FC<CardItemProps> = ({ card, onPress }) => {
 const styles = StyleSheet.create({
   card: {
     flex: 1,
-    margin: 8,
-    padding: 10,
-    backgroundColor: '#fff',
-    borderRadius: 10,
+    margin: 10,
+    padding: 16,
+    backgroundColor: '#fafafa',
+    borderRadius: 16,
     alignItems: 'center',
+    justifyContent: 'flex-start',
     shadowColor: '#000',
-    shadowOpacity: 0.1,
-    shadowRadius: 4,
-    elevation: 3,
+    shadowOpacity: 0.12,
+    shadowRadius: 8,
+    shadowOffset: { width: 0, height: 4 },
+    elevation: 6,
   },
   image: {
-    width: 80,
-    height: 120,
-    marginBottom: 10,
+    width: 200,
+    height: 250,
+    marginBottom: 12,
+    borderRadius: 8,
   },
   title: {
-    fontWeight: 'bold',
+    fontSize: 16,
+    fontWeight: '600',
+    color: '#222',
+    textAlign: 'center',
+    marginBottom: 6,
   },
   keywords: {
-    fontSize: 12,
-    color: '#666',
+    fontSize: 13,
+    color: '#555',
     textAlign: 'center',
+    lineHeight: 18,
   },
 });
 
