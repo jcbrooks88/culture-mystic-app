@@ -1,6 +1,14 @@
 import React from 'react';
 import { View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
 import { TarotCard } from '../types/TarotCard';
+import cardImages from '../assets/images/cardImages';
+
+const formatCardName = (name: string) => {
+  return name
+    .toLowerCase()
+    .replace(/[\s_]+/g, '-') // "Three of Cups" → "three-of-cups"
+    .replace(/[^a-z0-9-]/g, '');
+};
 
 interface CardItemProps {
   card: TarotCard;
@@ -8,8 +16,9 @@ interface CardItemProps {
 }
 
 const CardItem: React.FC<CardItemProps> = ({ card, onPress }) => {
-  const imageSource = card.image
-    ? { uri: card.image }
+  const imageName = formatCardName(card.name);
+  const imageSource = cardImages[imageName]
+    ? cardImages[imageName]
     : require('../assets/images/back-up-image.png');
 
   return (
@@ -18,7 +27,6 @@ const CardItem: React.FC<CardItemProps> = ({ card, onPress }) => {
         source={imageSource}
         style={styles.image}
         resizeMode="contain"
-        onError={() => console.warn(`Failed to load image for ${card.name}`)}
       />
       <Text style={styles.title}>{card.name}</Text>
       <Text style={styles.keywords}>{card.keywords.join(', ')}</Text>
