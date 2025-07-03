@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "name": "The Fool",
       "arcana": "Major",
       "meaning_up": "New beginnings, optimism, trust in life",
@@ -11,6 +12,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "The Magician",
       "arcana": "Major",
       "meaning_up": "Willpower, desire, creation, manifestation",
@@ -22,6 +24,7 @@
       ]
     },
     {
+      "id": 3,
       "name": "The High Priestess",
       "arcana": "Major",
       "meaning_up": "Intuition, unconscious, inner voice",
@@ -33,6 +36,7 @@
       ]
     },
     {
+      "id": 4,
       "name": "The Empress",
       "arcana": "Major",
       "meaning_up": "Femininity, beauty, nature, nurturing",
@@ -44,6 +48,7 @@
       ]
     },
     {
+      "id": 5,
       "name": "The Emperor",
       "arcana": "Major",
       "meaning_up": "Authority, structure, control, fatherhood",
@@ -55,6 +60,7 @@
       ]
     },
     {
+      "id": 6,
       "name": "The Hierophant",
       "arcana": "Major",
       "meaning_up": "Tradition, conformity, morality",
@@ -66,6 +72,7 @@
       ]
     },
     {
+      "id": 7,
       "name": "The Lovers",
       "arcana": "Major",
       "meaning_up": "Love, harmony, relationships, alignment",
@@ -77,6 +84,7 @@
       ]
     },
     {
+      "id": 8,
       "name": "The Chariot",
       "arcana": "Major",
       "meaning_up": "Direction, control, willpower",
@@ -88,6 +96,7 @@
       ]
     },
     {
+      "id": 9,
       "name": "Strength",
       "arcana": "Major",
       "meaning_up": "Courage, patience, control, compassion",
@@ -99,6 +108,7 @@
       ]
     },
     {
+      "id": 10,
       "name": "The Hermit",
       "arcana": "Major",
       "meaning_up": "Soul-searching, introspection, being alone",
@@ -110,6 +120,7 @@
       ]
     },
     {
+      "id": 11,
       "name": "Wheel of Fortune",
       "arcana": "Major",
       "meaning_up": "Change, cycles, fate, karma",
@@ -121,6 +132,7 @@
       ]
     },
     {
+      "id": 12,
       "name": "Justice",
       "arcana": "Major",
       "meaning_up": "Fairness, truth, law",
@@ -132,6 +144,7 @@
       ]
     },
     {
+      "id": 13,
       "name": "The Hanged Man",
       "arcana": "Major",
       "meaning_up": "Sacrifice, release, new perspective",
@@ -143,6 +156,7 @@
       ]
     },
     {
+      "id": 14,
       "name": "Death",
       "arcana": "Major",
       "meaning_up": "Endings, change, transformation",
@@ -154,6 +168,7 @@
       ]
     },
     {
+      "id": 15,
       "name": "Temperance",
       "arcana": "Major",
       "meaning_up": "Balance, moderation, patience",
@@ -165,6 +180,7 @@
       ]
     },
     {
+      "id": 16,
       "name": "The Devil",
       "arcana": "Major",
       "meaning_up": "Addiction, materialism, playfulness",
@@ -176,6 +192,7 @@
       ]
     },
     {
+      "id": 17,
       "name": "The Tower",
       "arcana": "Major",
       "meaning_up": "Sudden upheaval, chaos, revelation",
@@ -187,6 +204,7 @@
       ]
     },
     {
+      "id": 18,
       "name": "The Star",
       "arcana": "Major",
       "meaning_up": "Hope, faith, purpose, renewal",
@@ -198,6 +216,7 @@
       ]
     },
     {
+      "id": 19,
       "name": "The Moon",
       "arcana": "Major",
       "meaning_up": "Illusion, fear, anxiety, subconscious",
@@ -209,6 +228,7 @@
       ]
     },
     {
+      "id": 20,
       "name": "The Sun",
       "arcana": "Major",
       "meaning_up": "Positivity, fun, warmth, success",
@@ -220,6 +240,7 @@
       ]
     },
     {
+      "id": 21,
       "name": "Judgement",
       "arcana": "Major",
       "meaning_up": "Reflection, reckoning, awakening",
@@ -231,6 +252,7 @@
       ]
     },
     {
+      "id": 22,
       "name": "The World",
       "arcana": "Major",
       "meaning_up": "Completion, achievement, travel",
@@ -242,6 +264,7 @@
       ]
     },
     {
+      "id": 23,
       "name": "Ace of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -255,6 +278,7 @@
       ]
     },
     {
+      "id": 24,
       "name": "Two of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -268,6 +292,7 @@
       ]
     },
     {
+      "id": 25,
       "name": "Three of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -281,6 +306,7 @@
       ]
     },
     {
+      "id": 26,
       "name": "Four of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -294,6 +320,7 @@
       ]
     },
     {
+      "id": 27,
       "name": "Five of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -307,6 +334,7 @@
       ]
     },
     {
+      "id": 28,
       "name": "Six of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -320,6 +348,7 @@
       ]
     },
     {
+      "id": 29,
       "name": "Seven of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -333,6 +362,7 @@
       ]
     },
     {
+      "id": 30,
       "name": "Eight of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -346,6 +376,7 @@
       ]
     },
     {
+      "id": 31,
       "name": "Nine of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -359,6 +390,7 @@
       ]
     },
     {
+      "id": 32,
       "name": "Ten of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -372,6 +404,7 @@
       ]
     },
     {
+      "id": 33,
       "name": "Page of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -385,6 +418,7 @@
       ]
     },
     {
+      "id": 34,
       "name": "Knight of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -398,6 +432,7 @@
       ]
     },
     {
+      "id": 35,
       "name": "Queen of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -411,6 +446,7 @@
       ]
     },
     {
+      "id": 36,
       "name": "King of Cups",
       "arcana": "Minor",
       "suit": "Cups",
@@ -424,6 +460,7 @@
       ]
     },
     {
+      "id": 37,
       "name": "Ace of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -437,6 +474,7 @@
       ]
     },
     {
+      "id": 38,
       "name": "Two of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -450,6 +488,7 @@
       ]
     },
     {
+      "id": 39,
       "name": "Three of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -463,6 +502,7 @@
       ]
     },
     {
+      "id": 40,
       "name": "Four of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -476,6 +516,7 @@
       ]
     },
     {
+      "id": 41,
       "name": "Five of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -489,6 +530,7 @@
       ]
     },
     {
+      "id": 42,
       "name": "Six of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -502,6 +544,7 @@
       ]
     },
     {
+      "id": 43,
       "name": "Seven of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -515,6 +558,7 @@
       ]
     },
     {
+      "id": 44,
       "name": "Eight of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -528,6 +572,7 @@
       ]
     },
     {
+      "id": 45,
       "name": "Nine of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -541,6 +586,7 @@
       ]
     },
     {
+      "id": 46,
       "name": "Ten of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -554,6 +600,7 @@
       ]
     },
     {
+      "id": 47,
       "name": "Page of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -567,6 +614,7 @@
       ]
     },
     {
+      "id": 48,
       "name": "Knight of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -580,6 +628,7 @@
       ]
     },
     {
+      "id": 49,
       "name": "Queen of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -593,6 +642,7 @@
       ]
     },
     {
+      "id": 50,
       "name": "King of Pentacles",
       "arcana": "Minor",
       "suit": "Pentacles",
@@ -606,6 +656,7 @@
       ]
     },
     {
+      "id": 51,
       "name": "Ace of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -619,6 +670,7 @@
       ]
     },
     {
+      "id": 52,
       "name": "Two of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -632,6 +684,7 @@
       ]
     },
     {
+      "id": 53,
       "name": "Three of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -645,6 +698,7 @@
       ]
     },
     {
+      "id": 54,
       "name": "Four of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -658,6 +712,7 @@
       ]
     },
     {
+      "id": 55,
       "name": "Five of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -671,6 +726,7 @@
       ]
     },
     {
+      "id": 56,
       "name": "Six of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -684,6 +740,7 @@
       ]
     },
     {
+      "id": 57,
       "name": "Seven of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -697,6 +754,7 @@
       ]
     },
     {
+      "id": 58,
       "name": "Eight of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -710,6 +768,7 @@
       ]
     },
     {
+      "id": 59,
       "name": "Nine of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -723,6 +782,7 @@
       ]
     },
     {
+      "id": 60,
       "name": "Ten of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -736,6 +796,7 @@
       ]
     },
     {
+      "id": 61,
       "name": "Page of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -749,6 +810,7 @@
       ]
     },
     {
+      "id": 62,
       "name": "Knight of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -762,6 +824,7 @@
       ]
     },
     {
+      "id": 63,
       "name": "Queen of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -775,6 +838,7 @@
       ]
     },
     {
+      "id": 64,
       "name": "King of Swords",
       "arcana": "Minor",
       "suit": "Swords",
@@ -788,6 +852,7 @@
       ]
     },
     {
+      "id": 65,
       "name": "Ace of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -801,6 +866,7 @@
       ]
     },
     {
+      "id": 66,
       "name": "Two of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -814,6 +880,7 @@
       ]
     },
     {
+      "id": 67,
       "name": "Three of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -827,6 +894,7 @@
       ]
     },
     {
+      "id": 68,
       "name": "Four of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -840,6 +908,7 @@
       ]
     },
     {
+      "id": 69,
       "name": "Five of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -853,6 +922,7 @@
       ]
     },
     {
+      "id": 70,
       "name": "Six of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -866,6 +936,7 @@
       ]
     },
     {
+      "id": 71,
       "name": "Seven of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -879,6 +950,7 @@
       ]
     },
     {
+      "id": 72,
       "name": "Eight of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -892,6 +964,7 @@
       ]
     },
     {
+      "id": 73,
       "name": "Nine of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -905,6 +978,7 @@
       ]
     },
     {
+      "id": 74,
       "name": "Ten of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -918,6 +992,7 @@
       ]
     },
     {
+      "id": 75,
       "name": "Page of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -931,6 +1006,7 @@
       ]
     },
     {
+      "id": 76,
       "name": "Knight of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -944,6 +1020,7 @@
       ]
     },
     {
+      "id": 77,
       "name": "Queen of Wands",
       "arcana": "Minor",
       "suit": "Wands",
@@ -957,6 +1034,7 @@
       ]
     },
     {
+      "id": 78,
       "name": "King of Wands",
       "arcana": "Minor",
       "suit": "Wands",

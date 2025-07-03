@@ -7,7 +7,7 @@ import {
   SafeAreaView,
   Text,
 } from 'react-native';
-import tarotData from '../../data/tarot_cards.json';
+import tarotData from '../data/tarot_cards.json';
 import CardItem from '../components/CardItem';
 import CardModal from '../components/CardModal';
 import FilterToggle from '../components/FilterToggle';

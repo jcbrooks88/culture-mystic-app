@@ -10,7 +10,7 @@ interface CardItemProps {
 const CardItem: React.FC<CardItemProps> = ({ card, onPress }) => {
   const imageSource = card.image
     ? { uri: card.image }
-    : require('../assets/images/fallback.png');
+    : require('../assets/images/back-up-image.png');
 
   return (
     <TouchableOpacity onPress={onPress} style={styles.card}>

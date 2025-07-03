@@ -13,7 +13,7 @@ const CardModal: React.FC<CardModalProps> = ({ visible, card, onClose }) => {
 
   const imageSource = card.image
     ? { uri: card.image }
-    : require('../assets/images/fallback.png');
+    : require('../assets/images/back-up-image.png');
 
   return (
     <Modal visible={visible} animationType="slide" transparent>
